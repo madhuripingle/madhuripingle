@@ -1,6 +1,26 @@
-<h1 align="center">Hi 👋, I'm Madhuri Pingle</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+<h1 align="center">💻 Madhuri Pingle 📊</h1> 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Analyst;SQL+Developer;Power+BI+Developer;Python+Enthusiast;Turning+Data+Into+Business+Insights" />
+</p>
+<h3 align="center">📊 Data Analyst | SQL | Python | Power BI | Excel</h3>
+<div align="center">
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=madhuripingle19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=red"/>
+</a>
+
+<a href="https://www.linkedin.com/in/madhuri-pingle-7655b32a1/">
+<img src="https://img.shields.io/badge/LINKEDIN-MADHURI%20PINGLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/PORTFOLIO-LIVE-black?style=for-the-badge"/>
+</a>
+
+</div>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="450px" align="right" alt="">
+
+
 
 - 👯 I’m looking to collaborate on **Power Bi Projects**
 
@@ -10,57 +30,91 @@
 
 - 📫 How to reach me **madhuripingle19@gmail.com**
 
-- ⚡ Fun fact **I am passionate about my work.**
+- ⚡ Fun fact **I am enjoying problem solving through data.**
+-----
+## 👩‍💻 WHO AM I
 
+- Data Analyst passionate about transforming raw data into meaningful business insights.
+- I enjoy solving business problems through SQL, Python, Power BI, and Excel.
+- My focus is on creating interactive dashboards, automating reports, performing exploratory data analysis, and helping organizations make data-driven decisions.
+-----
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhuripingle)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhuripingle19@gmail.com) 
+## ⚡ Analytics Tools
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=madhuripingle&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=madhuripingle&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhuripingle&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=madhuripingle&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=madhuripingle&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 
----
-[![](https://visitcount.itsvg.in/api?id=madhuripingle&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/madhuri pingle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhuri pingle" height="30" width="40" /></a>
-<a href="https://kaggle.com/madhuripingle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="madhuripingle" height="30" width="40" /></a>
-</p>
+-----
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## 🚀 Projects That Define Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhuripingle&show_icons=true&locale=en&layout=compact" alt="madhuripingle" /></p>
+### 🌍 Global Poverty & Economic Inequality Analysis
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhuripingle&show_icons=true&locale=en" alt="madhuripingle" /></p>
+- Data science project
 
-<!--
-**madhuripingle/madhuripingle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Visualization and exploratory analysis
 
-Here are some ideas to get you started:
+- Data Cleaning 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL Analysis
+
+- Country and regional insights
+
+Tools : Python | SQL | Power BI
+
+-----
+
+### 🚗 Fleet Data and Fuel Events Analytics Dashboard
+
+- Vehicle Performance
+
+- Fuel Consumption Analysis
+
+- Driver Performance
+
+- Route Compliance
+
+- Interactive Dashboard
+
+Tools : Python | SQL | Power BI
+
+-----
+
+## 🛒 Customer Shopping Behavior Analysis
+
+- Customer Segmentation
+
+- Sales Analysis
+
+- Revenue Dashboard
+
+- Purchase Trends
+
+- Business Recommendations
+
+Tools : Python | SQL | Power BI
+
+-----
+
+## 📊  Other Data Science Projects
+
+- Mental Health Survey EDA
+
+- Dubai Real Estate Analysis
+
+- Bike Sales Analysis
+
+- Shopify E-commerce Data Analysis
+
+- iTune Music Store Data Analysis
+
+------
